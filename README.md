@@ -1,6 +1,6 @@
-# Universal Texture Synthesis by Combining Spatial Noise Injection with Texton Broacasting in StyleGAN-2
+# Towards Universal Texture Synthesis by Combining Spatial Noise Injection with Texton Broacasting in StyleGAN-2
 
-This is the official pytorch implementation of paper (). The code is largely adapted from https://github.com/rosinality/stylegan2-pytorch
+The code is largely adapted from https://github.com/rosinality/stylegan2-pytorch
 
 ## Requirements
 
