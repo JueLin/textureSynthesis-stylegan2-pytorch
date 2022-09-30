@@ -31,6 +31,8 @@ Thresholded Invariant Pixel Percentage (TIPP) directly quantifies a commonly obs
 
 ## Reference
 
+Please cite the following paper if you use the provided data and/or code:
+
 ~~~bibtex
 @misc{2203.04221,
 Author = {Jue Lin and Gaurav Sharma and Thrasyvoulos N. Pappas},
