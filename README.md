@@ -43,3 +43,7 @@ Eprint = {arXiv:2203.04221},
 ## License
 
 Model details and custom CUDA kernel codes are from official repostiories: https://github.com/NVlabs/stylegan2
+
+## Disclaimer: 
+
+The dataset and code are provided "as is" with ABSOLUTELY NO WARRANTY expressed or implied. Use at your own risk.
