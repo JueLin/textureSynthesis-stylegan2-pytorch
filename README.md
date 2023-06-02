@@ -34,11 +34,16 @@ Thresholded Invariant Pixel Percentage (TIPP) directly quantifies a commonly obs
 Please cite the following paper if you use the provided data and/or code:
 
 ~~~bibtex
-@misc{2203.04221,
-Author = {Jue Lin and Gaurav Sharma and Thrasyvoulos N. Pappas},
-Title = {Towards Universal Texture Synthesis by Combining Texton Broadcasting with Noise Injection in StyleGAN-2},
-Year = {2022},
-Eprint = {arXiv:2203.04221},
+@article{LIN2023100092,
+author = {Jue Lin and Gaurav Sharma and Thrasyvoulos N. Pappas},
+title = {Toward universal texture synthesis by combining texton broadcasting with noise injection in StyleGAN-2},
+journal = {e-Prime - Advances in Electrical Engineering, Electronics and Energy},
+volume = {3},
+pages = {100092},
+year = {2023},
+issn = {2772-6711},
+doi = {https://doi.org/10.1016/j.prime.2022.100092},
+url = {https://www.sciencedirect.com/science/article/pii/S2772671122000638},
 }
 ~~~
 
