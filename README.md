@@ -9,11 +9,11 @@ The code is largely adapted from https://github.com/rosinality/stylegan2-pytorch
 
 ## Dataset 
 
-We collect 500 distinct textures with high spatial dimensions (around 2000 by 2000). Please download from [here](https://drive.google.com/file/d/15tM8vlc-ZnYVQpyjf63QyQQ9inqtijmt/view?usp=sharing)
+We collect 500 distinct textures with high spatial dimensions (around 2000 by 2000). Please download from [here](https://doi.org/10.5281/zenodo.7127079)
 
 ## Pretrained Model
 
-A pretrained model (as describled in the paper) can be downloaded from [here](https://drive.google.com/file/d/1s0aZM9-IHMLFNIJOJXnRH6Y3iF5Grezu/view?usp=sharing)
+A pretrained model (as describled in the paper) can be downloaded from [here](https://doi.org/10.5281/zenodo.8000592)
 
 ## Training
 
